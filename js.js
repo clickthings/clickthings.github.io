@@ -463,6 +463,7 @@ setTimeout(function () {
     Bonus = 0;
     contextB.clearRect(0, 0, canvasB.width, canvasB.height);
     sc = 0;
+    fc = 0;
     good = 1;
     Errr = 0;
     Score.innerHTML = "0";
